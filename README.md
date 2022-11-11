@@ -19,4 +19,4 @@ PowerShell scripting is defined as the process of writing and executing code scr
 
 ## Contributing
 
-To learn more about contributing to PowerShell-Script, please read [contributing.md](https://github.com/PaystackHQ/nigerialogos/blob/master/contributing.md)
+To learn more about contributing to PowerShell-Script, please read [contributing.md](https://github.com/clintonimaroo/PowerShell-Script/blob/main/contributing.md)
